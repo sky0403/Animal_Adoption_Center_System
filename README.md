@@ -59,16 +59,6 @@ make
 ./main
 ```
 
-3. Run tests:
-```bash
-./main_test
-```
-
-4. Check answers:
-```bash
-./check_answer.sh
-```
-
 ## Notes
 - Make sure to follow the provided specifications in the assignment
 - Test your implementation thoroughly
