@@ -1,4 +1,4 @@
-# Animal Adoption Center System (COMP2012 PA3)
+# Animal Adoption Center System
 
 ## Project Overview
 This project implements an Animal Adoption Center Management System using C++. The system manages animal records, implements a binary search tree (BST) for efficient data storage and retrieval, and provides functionality for animal adoption and management.
@@ -16,37 +16,37 @@ This project implements an Animal Adoption Center Management System using C++. T
 ## TODO List (Implementation Tasks)
 
 ### 1. Binary Search Tree (BST) Implementation
-- [ ] Implement BST node structure
-- [ ] Implement BST insertion operation
-- [ ] Implement BST deletion operation
-- [ ] Implement BST search operation
-- [ ] Implement BST traversal methods
-- [ ] Implement BST balancing (if required)
+- Implement BST node structure
+- Implement BST insertion operation
+- Implement BST deletion operation
+- Implement BST search operation
+- Implement BST traversal methods
+- Implement BST balancing (if required)
 
 ### 2. Animal Class Implementation
-- [ ] Implement Animal class constructor
-- [ ] Implement getter and setter methods
-- [ ] Implement animal comparison operators
-- [ ] Implement animal display methods
+- Implement Animal class constructor
+- Implement getter and setter methods
+- Implement animal comparison operators
+- Implement animal display methods
 
 ### 3. Adoption Center Implementation
-- [ ] Implement animal registration
-- [ ] Implement animal adoption process
-- [ ] Implement animal search functionality
-- [ ] Implement adoption center statistics
-- [ ] Implement data persistence (if required)
+- Implement animal registration
+- Implement animal adoption process
+- Implement animal search functionality
+- Implement adoption center statistics
+- Implement data persistence (if required)
 
 ### 4. Data Types and Structures
-- [ ] Implement custom data types
-- [ ] Implement necessary data structures
-- [ ] Implement utility functions
+- Implement custom data types
+- Implement necessary data structures
+- Implement utility functions
 
 ### 5. Testing and Validation
-- [ ] Implement unit tests
-- [ ] Test BST operations
-- [ ] Test adoption center operations
-- [ ] Validate edge cases
-- [ ] Performance testing
+- Implement unit tests
+- Test BST operations
+- Test adoption center operations
+- Validate edge cases
+- Performance testing
 
 ## Building and Running
 1. Compile the project:
